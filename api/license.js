@@ -20,9 +20,11 @@ function normalizeDomain(input) {
 }
 
 const LICENSED_DOMAINS = new Set([
-  "example.com",
-  "client1.com",
-  "client2.com"
+  "portal.remaxdenge.com",
+  "beta.remaxdenge.com",
+  "portal.remax-yildiz.com",
+  "beta.remax-yildiz.com",
+  "portal.mustafakocak.net"
 ]);
 
 export default async function handler(req, res) {
