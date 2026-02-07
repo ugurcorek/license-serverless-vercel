@@ -24,7 +24,8 @@ const LICENSED_DOMAINS = new Set([
   "beta.remaxdenge.com",
   "portal.remax-yildiz.com",
   "beta.remax-yildiz.com",
-  "portal.mustafakocak.net"
+  "portal.mustafakocak.net",
+  "login.ardreamturk.com"
 ]);
 
 export default async function handler(req, res) {
